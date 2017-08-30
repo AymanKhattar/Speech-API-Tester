@@ -24,7 +24,7 @@ $ sudo python setup.py install
 
 WITH DOCKER : 
 
-## Authentications
+## Speech to text SDK Authentications
 
 ### Google API Discovery Service 
 
@@ -93,12 +93,6 @@ spotify:user:top10Vald:playlist:37i9dQZEWEQRAWxW89UNRAJd
 spotify:user:217qnursqpzyypankmyr2zl6a:playlist:2iT5VeumFzJTOCUiNhXi0I
 ```
 
-
-
-
-
-
-
 ## Results : 
 
 ### On console : 
@@ -129,4 +123,9 @@ API : Google API Discovery, with alternatives
 
 It output a csv with all the recognized words recognized eg: `recognizedAlbums.csv`, a csv with all the unrecognized eg: `unrecognizedArtists.csv` words followed by a list of their alternatives and and a csv concatenating the scores eg: `score_tracks.csv` of  all tests so you could easily compare STT API performances. 
 
+## Next moves : 
 
+- Add other STT SDK to test
+- Dockerization
+- Text processing based on ML for further improvement
+- All in the cloud solution
