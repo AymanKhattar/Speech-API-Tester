@@ -12,17 +12,13 @@ This project provide an end to end solution. You only need to provide your Googl
 ## Installation
 
 
-
-WITH NO DOCKER : if you're using an built UNIX os (I personally use Ubuntu 14.04)
-
+From source : 
 ```
 $ git clone ****.git
 $ cd speechAPItester
 $ python setup.py build
 $ sudo python setup.py install
 ```
-
-WITH DOCKER : 
 
 ## Speech to text SDK Authentications
 
