@@ -1,0 +1,19 @@
+2017-08-27 01:11:07.130084 :
+ googleapi
+ 	 has recognize 3 tracks from 4,
+ 	 has unrecognize 1 tracks from 4, 
+ 	 1619 tracks could not have been processed by Speech API tester,
+
+And the final recognition score of this test is : 75.0 
+
+
+ 			  2017-08-27 17:51:20.135821 :
+ googleapi
+ 	 has recognize 1387 tracks from 1619,
+ 	 has unrecognize 232 tracks from 1619, 
+ 	 4 tracks could not have been processed by Speech API tester,
+
+And the final recognition score of this test is : 85.6701667696 
+
+
+ 			  

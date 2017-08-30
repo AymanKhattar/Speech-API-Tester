@@ -1,0 +1,57 @@
+Hello ! Welcome to Speech API Tester, Speech API Tester will 
+make it easy for you to test the recognition accuracy of the 
+most famous Speech Recognition APIs. You first need to fill 
+this file with some requiered informations. 
+DO NOT CHANGE THE QUESTIONS 
+--------------------------------------------------------------|
+
+
+| (*) Your Spotify Client ID :| ***HERE***
+
+|: (*) Your Spotify Client Secrets :| ***HERE***
+
+|: (*) The URI of your playlists. Please replace the exemples below with the 
+URI of your playlists, you could put as many playlists as you want !!  :|
+
+spotify:user:spotify:playlist:37i9dQZEVXcWxW89UNRAJd
+spotify:user:217qnursqpzyypankmyr2zl6a:playlist:3LVYhXVCfetQ4ZekWdYmrB
+spotify:user:arjan1978:playlist:28v6JdtLYHOHozxjmkETXV
+
+
+
+
+|: Which Speech Recognition API do you like to test ? 
+enter : (Google Discovery/Google Cloud) (Other choses upcoming) - default [Google Discovery] :| ***HERE***
+
+|: If you are using Google Discovery, you could chose to make it returns alternatives guesses.
+If you do, It will output few guesses and the Speech API Tester will chose the most accurate one. 
+That would increase the recgnition accuracy but might make it a bit slower, but it's definitly 
+not cheating ! and you might use this feature in your app. 
+
+Do you want to use alternatives (Yes/No) ? - default [Yes] :| ***HERE***
+
+|: If you are using Google Discovery, you could chose to input some hints to help it with the 
+recognition, it this case, we are going to feeding it up with the playlist dataset as hints. 
+Once again that is suppose to increase it's accuracy but might make it slower. 
+You could juge it by yourself ;) 
+
+Do you want to use hints (Yes/No) ? - default [Yes] :| ***HERE***
+
+
+|: Do you What to test the API on Artists, Albums or Tracks ? - default [Albums] :| ***HERE***
+
+
+|: How many samples do you want from your playlists ? (min:2/max:100) - default [10] :| ***HERE***
+
+
+|: You could chose to process only some of the playlists you provide, if that's the case 
+please provide the number of playlists you want to test - default [All of them]:| ***HERE***
+
+
+|:---------------------------------------------------------------------
+
+Upcomings ! 
+
+More APIs such as Amazon lex , Wit (Facebook), Watson (HBM) and so on ...
+
+deep STT Processor, Calculate the distance between the most common phrases in order to increase the Accuracy.  

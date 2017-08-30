@@ -1,0 +1,19 @@
+2017-08-27 21:59:11.123825 :
+ googleapi
+ 	 has recognize 1 artists from 2,
+ 	 has unrecognize 1 artists from 2, 
+ 	 860 artists could not have been processed by Speech API tester,
+
+And the final recognition score of this test is : 50.0 
+
+
+ 			  2017-08-30 01:17:11.271831 :
+ googleapi [hints : 0] and  [alternatives : 0] 
+ 	 has recognize 353 artists from 512,
+ 	 has unrecognize 159 artists from 512, 
+ 	 0 artists could not have been processed by Speech API tester,
+
+And the final recognition score of this test is : 68.9453125 
+
+
+ 			  

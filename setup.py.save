@@ -1,0 +1,17 @@
+from cx_Freeze import setup, Executable
+
+# Dependencies are automatically detected, but it might need
+# fine tuning.
+buildOptions = dict(packages = [], excludes = [])
+
+base = 'Console'
+
+executables = [
+    Executable('/home/ayman/Desktop/Carriere/Speech_Recognition/NLP_google_OS/Google_STT.git/Scripts/text_with_Spotify', base=b')
+]
+
+setup(name='Google STT Testing',
+      version = '1.0',
+      description = 'This program will test the accuracy of Google STT for Spotify music Artist / Album and tracks names',
+      options = dict(build_exe = buildOptions),
+      executables = executables)
