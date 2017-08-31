@@ -14,7 +14,7 @@ This project provide an end to end solution. You only need to provide your Googl
 
 From source : 
 ```
-$ git clone ****.git
+$ git clone https://github.com/AymanKhattar/Speech-API-Tester.git
 $ cd speechAPItester
 $ python setup.py build
 $ sudo python setup.py install
