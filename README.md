@@ -3,11 +3,11 @@ Test Speech To Text SDK accuracy easily
 
 ## Introduction 
 
-There is a plenty of big companies that are developing speech recognition API for a B2B mater. Lot of them are claiming to be the best on market for the largest amount of topics. There is an increasing number of companies that are seeking out the most natural interaction between their entity and their clients in a matter of UX and the majority of them is integrating voice control. Most of those companies are only focusing on a specific kind of topic for their voice control interface, they don't care about the recognition of other topics, they just absolutely need the best voice control for their topic.
+There is a plenty of big companies that are developing speech recognition API regarding B2B. Lot of them are claiming to be the best on market for the largest amount of topics. There is an increasing number of companies that are seeking out the most natural interaction between their entity and their clients in a matter of UX and the majority of them is integrating voice control. Most of those companies are only focusing on a specific kind of topic for their voice control interface, they don't care about the recognition of other topics, they just absolutely need the best voice control for their topic.
 
-This python project is about testing the accuracy of the most known Speech API for a specific topic. For now the tester is only available with Google Cloud Speech API and Google API Discovery. and for the music topic, it test the recognition of Artists, Albums and Tracks name. 
+This python project is about testing the accuracy of the most known Speech API for a specific topic. For now the tester is only available with Google Cloud Speech API and Google API Discovery and for the music topic, it test the recognition of Artists, Albums and Tracks name. 
 
-This project provide an end to end solution. You only need to provide your Google API authentications, Spotify SDK identifier and secrets  and the id of the playlists you're following on Spotify and that's it, Speech API Tester would take in charge all the rest and gives you the score you need. Follow my instruction step by step 
+This project provide an end-to-end solution. You only need to provide your Google API authentications, Spotify SDK identifier and secrets and the ID of the playlists you're following on Spotify and that's it, Speech API Tester will TTS your queries, STT it and test its matching. Follow my instructions step by step. 
 
 ## Installation
 
