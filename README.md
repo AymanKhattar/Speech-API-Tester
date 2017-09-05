@@ -55,6 +55,8 @@ Actually Speech API Tester is going to create the Dataset you need from Spotify.
 To get a URI go to your Spotify app or web page web app, right click on the playlist you need and click on “Copy playlist URI”. 
 
 the URI should look like that :
+
+
 ![image 3](https://user-images.githubusercontent.com/17698895/30060593-5dfb3d5e-9244-11e7-90f3-e3dc2661d130.png)
 
 ```
