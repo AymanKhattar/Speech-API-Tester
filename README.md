@@ -56,9 +56,6 @@ To get a URI go to your Spotify app or web page web app, right click on the play
 
 the URI should look like that :
 
-
-![image 3](https://user-images.githubusercontent.com/17698895/30060593-5dfb3d5e-9244-11e7-90f3-e3dc2661d130.png)
-
 ```
 spotify:user:spotify:playlist:37i9dQZEVXcWxW89UNRAJd
 ```
@@ -74,6 +71,8 @@ You now have every thing you need to easily configurate the Speech API Tester.
 Once the program is configured, run it on console and follow the instructions. The program should ask you to fill the configuration form, you should connect http://127.0.0.1:5000/ on your browser and fill the form which looks like this : 
 
 
+
+![image 3](https://user-images.githubusercontent.com/17698895/30060593-5dfb3d5e-9244-11e7-90f3-e3dc2661d130.png)
 
 
 
