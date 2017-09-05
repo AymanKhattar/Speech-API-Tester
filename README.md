@@ -54,7 +54,7 @@ If you don't already have Google Cloud credential please follow those steps :
 Actually Speech API Tester is going to create the Dataset you need from Spotify. You're going to provide it with the URI of the playlists that you need to get your data from and it will extract Artists names, Albums names or Tracks names from it. 
 To get a URI go to your Spotify app or web page web app, right click on the playlist you need and click on “Copy playlist URI”. 
 
-the URI should look like that : ![alt text](https://drive.google.com/file/d/0BxJU9xchmjmHMUJGZFJvbmktNzQ/view?usp=sharing)
+the URI should look like that : ![image 3](https://user-images.githubusercontent.com/17698895/30060593-5dfb3d5e-9244-11e7-90f3-e3dc2661d130.png)
 
 ```
 spotify:user:spotify:playlist:37i9dQZEVXcWxW89UNRAJd
