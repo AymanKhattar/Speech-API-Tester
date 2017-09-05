@@ -54,7 +54,7 @@ If you don't already have Google Cloud credential please follow those steps :
 Actually Speech API Tester is going to create the Dataset you need from Spotify. You're going to provide it with the URI of the playlists that you need to get your data from and it will extract Artists names, Albums names or Tracks names from it. 
 To get a URI go to your Spotify app or web page web app, right click on the playlist you need and click on “Copy playlist URI”. 
 
-the URI should look like that : 
+the URI should look like that : ![alt text](https://drive.google.com/file/d/0BxJU9xchmjmHMUJGZFJvbmktNzQ/view?usp=sharing)
 
 ```
 spotify:user:spotify:playlist:37i9dQZEVXcWxW89UNRAJd
@@ -71,7 +71,6 @@ You now have every thing you need to easily configurate the Speech API Tester.
 Once the program is configured, run it on console and follow the instructions. The program should ask you to fill the configuration form, you should connect http://127.0.0.1:5000/ on your browser and fill the form which looks like this : 
 
 
-[Image: https://whyd.quip.com/-/blob/eZTAAAMs3Kx/LjTjbKVw50n4DP9kJh4EZA] 
 
 
 
@@ -118,6 +117,8 @@ API : Google API Discovery, with alternatives
 ### CSV results :
 
 It output a csv with all the recognized words recognized eg: `recognizedAlbums.csv`, a csv with all the unrecognized eg: `unrecognizedArtists.csv` words followed by a list of their alternatives and and a csv concatenating the scores eg: `score_tracks.csv` of  all tests so you could easily compare STT API performances. 
+
+You can find a sample dataset by clicking  [here](https://drive.google.com/drive/u/0/folders/0BxJU9xchmjmHY21fLW8yRThLcmM)
 
 ## Next moves : 
 
