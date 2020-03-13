@@ -177,7 +177,7 @@ python-apt===0.9.3.5ubuntu2
 python-dateutil==2.6.0
 python-debian===0.1.21-nmu2ubuntu2
 python-engineio==1.7.0
-python-gnupg==0.4.1
+python-gnupg==0.4.4
 python-socketio==1.8.0
 python-vlc==1.1.2
 pyttsx==1.1
