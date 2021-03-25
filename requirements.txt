@@ -183,7 +183,7 @@ python-vlc==1.1.2
 pyttsx==1.1
 pytz==2012rc0
 pyxdg==0.25
-PyYAML==3.12
+PyYAML==5.4
 pyzmq==16.0.2
 reportlab==3.0
 requests==2.18.4
