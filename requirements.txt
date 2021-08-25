@@ -210,7 +210,7 @@ system-service==0.1.6
 tables==3.1.1
 tempora==1.8
 tenacity==4.4.0
-tensorflow==1.1.0
+tensorflow==2.5.1
 terminado==0.6
 testpath==0.3.1
 textblob==0.12.0
