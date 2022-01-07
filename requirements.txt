@@ -24,7 +24,7 @@ configparser==3.5.0
 constantly==15.1.0
 cryptography==2.0.3
 cssselect==1.0.1
-cvxopt==1.1.4
+cvxopt==1.2.7
 cx-Freeze==5.0.2
 Cython==0.25.2
 debtagshw==0.1
